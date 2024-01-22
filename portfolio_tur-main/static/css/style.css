@@ -17,7 +17,7 @@ body {
   letter-spacing: 0.2em;
   background: linear-gradient(180deg, #cfab22 0%, 
   
-rgba(227, 130, 56) 45%,rgba(154, 175, 37) 75%);
+rgba(227, 130, 56) 45%,rgba(154, 175, 37) 75%, rgb(122, 138, 33) );
   color: #ffffff;
 }
 
@@ -102,7 +102,7 @@ ul {
   letter-spacing: 0.3em;
   font-size: 70px;
   text-align: center;
-  color: #a178b9;
+  color: #8e6839;
   line-height: 1;
   text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
@@ -122,7 +122,7 @@ ul {
   font-size: 60px;
   position: relative;
   text-align: left;
-  color: #cc8bf2;
+  color: #65502f;
   line-height: 1;
   text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
   display: flex;
@@ -166,7 +166,7 @@ ul {
   font-size: 60px;
   position: relative;
   text-align: left;
-  color: #cc8bf2;
+  color: #986235;
   line-height: 1;
   text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
   display: flex;
@@ -217,7 +217,7 @@ ul {
 }
 
 .skill__button:hover {
-  color: #cc8bf2;
+  color: #000000;
 }
 
 .project {
@@ -249,7 +249,7 @@ ul {
   width: 55%;
   height: 3px;
   bottom: -12px;
-  background: #a178b9;
+  background: #000000;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
 
@@ -268,7 +268,7 @@ ul {
   font-size: 60px;
   position: relative;
   text-align: left;
-  color: #cc8bf2;
+  color: #000000;
   line-height: 1;
   text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
   display: flex;
@@ -304,7 +304,7 @@ ul {
   width: 100%;
   font: inherit;
   background: #392657;
-  border: 2px solid #a178b9;
+  border: 2px solid #7a532d;
   color: #fff;
   padding: 15px;
   border-radius: 10px;
@@ -326,7 +326,7 @@ ul {
   font: inherit;
   font-weight: 800;
   color: #fff;
-  background: linear-gradient(111.97deg, #CC8BF2 35.63%, rgba(204, 139, 242, 0) 150.16%);
+  background: linear-gradient(111.97deg, #000000 35.63%, rgba(204, 139, 242, 0) 150.16%);
   filter: drop-shadow(5px 5px 4px rgba(0, 0, 0, 0.25));
   padding: 15px 30px;
   border-radius: 20px;
